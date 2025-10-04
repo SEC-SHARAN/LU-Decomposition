@@ -45,7 +45,8 @@ print(x)
 
 ## Output:
 <img width="1216" height="855" alt="Screenshot 2025-10-04 083531" src="https://github.com/user-attachments/assets/ec60a8c7-a780-433a-8ccf-7650d53ceb9e" />
-<img width="1233" height="843" alt="Screenshot 2025-10-04 083543" src="https://github.com/user-attachments/assets/2f3ba39d-3509-4897-8944-a86021b37a91" />
+<img width="1218" height="764" alt="Screenshot 2025-10-04 083809" src="https://github.com/user-attachments/assets/dd417310-5da6-43ff-a420-c774e2910fa3" />
+
 
 
 
